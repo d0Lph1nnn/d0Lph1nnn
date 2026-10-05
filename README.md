@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Building%20Artifical%20Intelligent%20Systems&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Building%20Artificial%20Intelligent%20Systems&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -19,8 +19,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -28,17 +31,31 @@
 
 ### 📌 Öne Çıkan Projeler
 
-* **⚡ [Highway AI Speed Radar & Tracker](https://github.com/d0Lph1nnn/CarSpeedPred)**
-  * YOLOv8 ve ByteTrack ile çoklu araç takibi, zamansal sanal kapılar üzerinden anlık hız (km/h) hesabı ve ihlal tespiti yapan uçtan uca sistem.
-  * *Teknolojiler:* `PyTorch`, `YOLOv8`, `OpenCV`, `FastAPI`, `SSE (Server-Sent Events)`, `Tailwind CSS`.
+* **🧩 [CCT — PROJE ADINI BURAYA YAZ](https://github.com/d0Lph1nnn)**
+  * Projenin tek cümlelik açıklaması.
+  * *Teknolojiler:* `...`
 
 * **🔍 [Churn Lens — Customer Retention AI](https://github.com/d0Lph1nnn)**
   * Müşteri kaybını önceden tahmin eden, Scikit-learn algoritmaları ve FastAPI mikroservis mimarisiyle canlı çıkarım (inference) sunan makine öğrenmesi hattı.
   * *Teknolojiler:* `Scikit-learn`, `FastAPI`, `Pandas`, `NumPy`.
 
+* **⚡ [Highway AI Speed Radar & Tracker (Car Speed Pred)](https://github.com/d0Lph1nnn/CarSpeedPred)**
+  * YOLOv8 ve ByteTrack ile çoklu araç takibi, zamansal sanal kapılar üzerinden anlık hız (km/h) hesabı ve ihlal tespiti yapan uçtan uca sistem.
+  * *Teknolojiler:* `PyTorch`, `YOLOv8`, `OpenCV`, `FastAPI`, `SSE (Server-Sent Events)`, `Tailwind CSS`.
+
 * **📈 [Weather Forecast ML Engine](https://github.com/d0Lph1nnn)**
   * Geçmiş meteorolojik veriler üzerinden Gradient Boosting regresyon modelleriyle hava tahmini gerçekleştiren veri bilimi projesi.
   * *Teknolojiler:* `Python`, `Scikit-learn`, `Gradient Boosting`.
+
+---
+
+### 🎓 Matematikten Yapay Zekaya
+
+> *"Yapay zeka, özünde uygulamalı matematiktir."*
+
+İstanbul Medeniyet Üniversitesi Matematik bölümünde 3. sınıf öğrencisiyim. Lineer cebir, olasılık, istatistik ve optimizasyon derslerinde öğrendiğim kavramları yalnızca teoride bırakmıyor; gradyan inişinden regresyon modellerine, nesne takibinden hız hesabına kadar gerçek yapay zeka projelerinde kullanıyorum.
+
+Amacım, matematiksel temeli sağlam, üretime hazır ve ölçeklenebilir yapay zeka sistemleri geliştirmek; bunu yaparken hem makine öğrenmesi hem de yazılım geliştirme tarafında kendimi sürekli ilerletmek.
 
 ---
 

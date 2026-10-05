@@ -31,16 +31,17 @@
 
 ### 📌 Öne Çıkan Projeler
 
-* **🧩 [CCT](https://github.com/d0Lph1nnn)**
-  * *Teknolojiler:* `Pytorch`
+* **🧩 [CCT - Compact Convolutional Transformer](https://github.com/d0Lph1nnn)**
+  * Devasa verilere gerek kalmadan, küçük veri setlerinde bile yüksek doğrulukla eğitilebilen, çok daha hafif ve hızlı bir Transformer Model Paperını Pytorch ile uçtan uca yazdım
+  * *Teknolojiler:* `Pytorch`.
 
 * **🔍 [Churn Lens — Customer Retention AI](https://github.com/d0Lph1nnn)**
   * Müşteri kaybını önceden tahmin eden, Scikit-learn algoritmaları ve FastAPI mikroservis mimarisiyle canlı çıkarım (inference) sunan makine öğrenmesi hattı.
-  * *Teknolojiler:* `Scikit-learn`, `FastAPI`, `Pandas`, `NumPy`.
+  * *Teknolojiler:* `Scikit-learn`, `FastAPI`, `Pandas`, `NumPy`,`Logistic Regresyon`.
 
 * **⚡ [Highway AI Speed Radar & Tracker (Car Speed Pred)](https://github.com/d0Lph1nnn/CarSpeedPred)**
   * YOLOv8 ve ByteTrack ile çoklu araç takibi, zamansal sanal kapılar üzerinden anlık hız (km/h) hesabı ve ihlal tespiti yapan uçtan uca sistem.
-  * *Teknolojiler:* `PyTorch`, `YOLOv8`, `OpenCV`, `FastAPI`, `SSE (Server-Sent Events)`, `Tailwind CSS`.
+  * *Teknolojiler:* `PyTorch`, `YOLOv8`, `OpenCV`, `FastAPI`, `Tailwind CSS`.
 
 * **📈 [Weather Forecast ML Engine](https://github.com/d0Lph1nnn)**
   * Geçmiş meteorolojik veriler üzerinden Gradient Boosting regresyon modelleriyle hava tahmini gerçekleştiren veri bilimi projesi.
@@ -52,9 +53,9 @@
 
 > *"Yapay zeka, özünde uygulamalı matematiktir."*
 
-İstanbul Medeniyet Üniversitesi Matematik bölümünde 3. sınıf öğrencisiyim. Lineer cebir, olasılık, istatistik ve optimizasyon derslerinde öğrendiğim kavramları yalnızca teoride bırakmıyor; gradyan inişinden regresyon modellerine, nesne takibinden hız hesabına kadar gerçek yapay zeka projelerinde kullanıyorum.
+İstanbul Medeniyet Üniversitesi'nde 3. sınıf Matematik öğrencisiyim. Matematiksel düşünme yapımı, görüntü işleme ve derin öğrenme alanında çalışan sistemlere dönüştürüyorum. CNN ve Transformer mimarilerini makaleleri okuyup PyTorch ile kendi yazdığım kodla anlıyor, bir mimarinin neden çalıştığını ve nerede zorlandığını deneylerle test ediyorum. Görüntü sınıflandırma, nesne tespiti ve çoklu nesne takibi gibi alanlarda geliştirdiğim projeler bu çalışmanın somut örnekleri.
 
-Amacım, matematiksel temeli sağlam, üretime hazır ve ölçeklenebilir yapay zeka sistemleri geliştirmek; bunu yaparken hem makine öğrenmesi hem de yazılım geliştirme tarafında kendimi sürekli ilerletmek.
+Amacım, matematiksel temeli sağlam, gerçek dünya verisiyle test edilmiş ve ürüne dönüşmeye hazır yapay zekâ sistemleri geliştirmek. Bunu yaparken hem makine öğrenmesi hem de yazılım geliştirme tarafında kendimi sürekli geliştirmeyi, verimli ve güvenilir çözümler üretmeyi hedefliyorum.
 
 ---
 

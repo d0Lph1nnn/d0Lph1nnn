@@ -31,9 +31,8 @@
 
 ### 📌 Öne Çıkan Projeler
 
-* **🧩 [CCT — PROJE ADINI BURAYA YAZ](https://github.com/d0Lph1nnn)**
-  * Projenin tek cümlelik açıklaması.
-  * *Teknolojiler:* `...`
+* **🧩 [CCT](https://github.com/d0Lph1nnn)**
+  * *Teknolojiler:* `Pytorch`
 
 * **🔍 [Churn Lens — Customer Retention AI](https://github.com/d0Lph1nnn)**
   * Müşteri kaybını önceden tahmin eden, Scikit-learn algoritmaları ve FastAPI mikroservis mimarisiyle canlı çıkarım (inference) sunan makine öğrenmesi hattı.
